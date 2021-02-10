@@ -1,0 +1,35 @@
+    1  git config --global user.name "Nikita Fedorov"
+    2  git config --global user.email fednik1999@gmail.com
+    3  asd
+    4  git status
+    5  .git
+    6  git config --list --global
+    7  Ls
+    8  ls
+    9  mkdir Git
+   10  cd Git
+   11  ls
+   12  git init
+   13  ls
+   14  ls -a
+   15  cd .git
+   16  ls
+   17  ll
+   18  cd ../
+   19  git config --list --global
+   20  git ll
+   21  git status
+   22  nano .gitignore
+   23  ls
+   24  ls -a
+   25  nano hello.py
+   26  git status
+   27  git add .
+   28  git add .
+   29  git status
+   30  git commit -m "my first commit. and hello."
+   31  git status
+   32  git log
+   33  git ll
+   34  history
+   35  history > history.txt
